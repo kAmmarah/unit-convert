@@ -20,7 +20,8 @@ Next, we’ll create the Python script for your app.
 🌟 Step 4: Write the Code 🖋️
 Now, let’s add the code for your unit converter app. Copy and paste the following into unit-convert.py:
 (showing some explaing with picture example how to follow steps and than understand very well)
-<img width="822" alt="Screenshot 2025-04-06 at 8 23 43 AM" src="https://github.com/user-attachments/assets/42ffcc49-0095-4ac1-8276-e11c5562eddd" />
+<img width="500" alt="Screenshot 2025-04-06 at 9 05 35 AM" src="https://github.com/user-attachments/assets/718b82a4-80c8-48c8-a9fe-b62fe4e2442a" />
+
 
 🌟 Step 5: Run the Streamlit App 🚀
 Let’s see your app in action!
